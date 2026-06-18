@@ -1,0 +1,6 @@
+{
+  "name": "iPad Tech Integration Task Board",
+  "description": "A full-stack task manager and instructional planning assistant that generates out-of-the-box, login-free iPad integration activities aligned with ISTE and Common Core standards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
